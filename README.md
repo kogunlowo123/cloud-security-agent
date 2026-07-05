@@ -46,6 +46,11 @@ Cloud security posture agent that scans multi-cloud environments for misconfigur
 
 ## Architecture
 
+![7-Layer Architecture](docs/diagrams/architecture-7-layer.png)
+
+*Where RAG sits in the stack — the 7-layer enterprise AI agent architecture.*
+
+
 ```
 cloud-security-agent/
 │
